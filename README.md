@@ -131,7 +131,7 @@ Projet d'intelligence artificielle explorant les possibilités du machine learni
 ## 📫 Me contacter
 
 - 💼 LinkedIn: [Votre profil LinkedIn]
-- 📧 Email: [Votre email]
+- 📧 Email: [frejuste.dev56@gmail.com]
 - 🌐 Portfolio: [Votre site web]
 - 🏢 Actuellement chez: **SIBM**
 
