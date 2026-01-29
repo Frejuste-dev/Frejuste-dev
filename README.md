@@ -47,7 +47,7 @@ const frejuste = {
 #### ✅ Projets terminés
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| 🔹 **Moulinette Inventaire** | Application complète de gestion des inventaires pour Sage X3 | Python, Flask, Pandas, NumPy |
+| 🏆 **Moulinette SAGE X3** | Application fullstack de traitement automatisé des inventaires avec redistribution FIFO/LIFO | React, FastAPI, MySQL, Docker |
 | 🔹 **NTFS Recovery Tool** | Outil GUI de récupération des droits NTFS avec détection BitLocker | PowerShell, WPF |
 | 🔹 **Automatisations Excel** | Mouvements de stock, consommations MP, planning production | Excel VBA, Python |
 
@@ -109,24 +109,40 @@ const frejuste = {
 
 <div align="center">
 
+[![Moulinette SAGE X3](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=moulinette-sagex3&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/moulinette-sagex3)
 [![NTFS Recovery Tool](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=NTFSRecoveryTool&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/NTFSRecoveryTool)
 [![Quantys-all](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=Quantys-all&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/Quantys-all)
-[![PHPNX](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=phpnx&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/phpnx)
 [![KUMAJALA-AI](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=KUMAJALA-AI&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/KUMAJALA-AI)
 
 </div>
+
+### 🏆 Moulinette SAGE X3 (Projet Phare - Production chez SIBM)
+> 🔄 Application fullstack de traitement automatisé des inventaires pour Sage X3
+
+| Stack | Technologies |
+|-------|-------------|
+| **Frontend** | React 18, TypeScript, Tailwind CSS, Vite |
+| **Backend** | FastAPI, SQLAlchemy, Pandas, OpenPyXL |
+| **Database** | MySQL 8.0 |
+| **DevOps** | Docker, Docker Compose, Nginx |
+
+**Fonctionnalités clés :**
+- 📤 Import/Export fichiers CSV Sage X3
+- 📊 Génération automatique de templates Excel
+- 🔄 Algorithme de redistribution FIFO/LIFO
+- 💾 Gestion de sessions avec reprise possible
+- 📝 Audit trail complet des opérations
+- 🐳 Déploiement conteneurisé Docker
+
+⭐ [Voir sur GitHub](https://github.com/Frejuste-dev/moulinette-sagex3)
+
+---
 
 ### 🔹 NTFS Recovery Tool (Open Source)
 > 🔓 Outil PowerShell avec GUI pour la récupération sécurisée des droits NTFS
 - Détection BitLocker, Mode Dry-Run, Sauvegarde automatique
 - Interface graphique WPF moderne
 - ⭐ [Voir sur GitHub](https://github.com/Frejuste-dev/NTFSRecoveryTool)
-
-### 🔹 Moulinette Inventaire (Privé - Production chez SIBM)
-> 📦 Application d'automatisation des inventaires pour Sage X3
-- Traitement CSV avec Pandas et OpenPyXL
-- Algorithme FIFO/LIFO pour répartition des écarts
-- API RESTful Flask | ✨ **Déployé en 3 mois**
 
 ---
 
