@@ -109,9 +109,8 @@ const frejuste = {
 
 <div align="center">
 
-[![Moulinette SAGE X3](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=moulinette-sagex3&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/moulinette-sagex3)
+[![Moulinette SAGE X3](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=moulinette-sagex3&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/Moulinette-SAGE-X3)
 [![NTFS Recovery Tool](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=NTFSRecoveryTool&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/NTFSRecoveryTool)
-[![Quantys-all](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=Quantys-all&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/Quantys-all)
 [![KUMAJALA-AI](https://github-readme-stats.vercel.app/api/pin/?username=Frejuste-dev&repo=KUMAJALA-AI&theme=tokyonight&hide_border=true)](https://github.com/Frejuste-dev/KUMAJALA-AI)
 
 </div>
